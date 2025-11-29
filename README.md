@@ -1,5 +1,11 @@
 # JuegoZombiesPD
 
+Integrantes:
+- Laura Sofia Londoño
+- Miguel ANgel Suarez
+- Maria Alejandra Vargas
+
+
 Recordar tener las librerias instaladas y mpi.
 
 Comando para correr el repositorio con dos procesos:
