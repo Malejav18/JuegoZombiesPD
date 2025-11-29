@@ -2,7 +2,7 @@
 
 Integrantes:
 - Laura Sofia Londoño
-- Miguel ANgel Suarez
+- Miguel Angel Suarez
 - Maria Alejandra Vargas
 
 
